@@ -7,4 +7,4 @@ int main() {
     output =  a - b/c;
     std::cout << output;
     return 0;
-}
+} 
