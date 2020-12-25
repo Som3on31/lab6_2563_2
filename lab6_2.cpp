@@ -28,7 +28,7 @@ int main(){
     cout << "Fahsai: "<< day << "....that is OK!!! " << "I'm looking forward to watching " << movie << " with you.\n";
     cout << name << ": ";
     getline (cin,line1);
-    cout << "Fahsai: 555+ see you " << day << " .\nBye Bye \(^ ^)/";
+    cout << "Fahsai: 555+ see you " << day << ". Bye Bye \\(^ ^)/";
 
     return 0;
 }
