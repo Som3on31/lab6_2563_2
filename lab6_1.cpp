@@ -5,6 +5,6 @@ int main() {
     float c = 4, output;
 
     output =  a - b/c;
-    std::cout << output;
+    std::cout << "output: " << output;
     return 0;
 } 
